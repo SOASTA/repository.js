@@ -18,6 +18,7 @@
   "homepage": "https://github.com/SOASTA/repository.js#readme",
   "dependencies": {
     "commander": "^2.8.1",
+    "csv-stringify": "0.0.8",
     "grunt-jsdoc": "^0.6.7",
     "lodash": "^3.10.1",
     "nock": "^2.10.0",
